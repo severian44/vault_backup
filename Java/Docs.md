@@ -4,3 +4,5 @@ Lombok docs:
 https://projectlombok.org/api/index-all
 Spring docs:
 https://spring.io/
+Gradle docs:
+https://docs.gradle.org/
